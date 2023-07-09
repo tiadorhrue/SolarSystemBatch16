@@ -13,10 +13,18 @@ public class Main {
         AdamX.temp="12344231 celcius";
         AdamX.size="32942Km";
 
+
         Planet1 xeon = new Planet1();
         xeon.name="reon";
         xeon.color="pink";
         xeon.temp="7536252 celcius";
         xeon.size="145343 km";
+
+        Planet2 feon = new Planet2();
+        feon.name="exo";
+        feon.color="red";
+        feon.temp="29 celcius";
+        feon.size="189273864 km";
+
     }
 }
